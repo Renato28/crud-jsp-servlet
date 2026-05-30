@@ -1,4 +1,4 @@
-package br.com.github.renato28.projetocrudjspservlet;
+package br.com.github.renato28.projetocrudjspservlet.model;
 
 public class Usuario {
 
